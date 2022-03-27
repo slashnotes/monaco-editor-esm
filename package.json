@@ -1,0 +1,22 @@
+{
+  "name": "@slashnotes/monaco-editor-esm",
+  "version": "1.0.1",
+  "license": "MIT",
+  "homepage": "https://github.com/slashnotes/monaco-editor-esm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slashnotes/monaco-editor-esm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slashnotes/monaco-editor-esm/issues"
+  },
+  "main": "index.mjs",
+  "type": "module",
+  "types": "index.d.ts",
+  "files": [
+    "index.mjs"
+  ],
+  "dependencies": {
+    "monaco-editor": "*"
+  }
+}
